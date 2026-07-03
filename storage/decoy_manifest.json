@@ -1,0 +1,34 @@
+{
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Archivio_Clienti.csv": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Documenti_Legali.pdf": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Stipendi_Dipendenti.xlsx": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Fatture_2024.xlsx": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Progetti_Riservati.zip": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Credenziali_Server.txt": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Dati_Bancari.docx": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  },
+  "/home/matteo/Scrivania/honeynet/ransomware-honeynet/honeypot/Report_Finanziario_Q4.xlsx": {
+    "hash": "7d3f556d5207ccd5f1f93ffc1c541bff8a72fa781cc2f8d5662bcf000b325197",
+    "size": 5920
+  }
+}
